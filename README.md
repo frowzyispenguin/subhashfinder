@@ -3,6 +3,7 @@
 It's a project for finding specific phrases in hexdigest of SHA256 hash.
 
 **like this example : **
+
 ![](sc.png)
 
 you try an string and script count all of strings wich look like yours.
